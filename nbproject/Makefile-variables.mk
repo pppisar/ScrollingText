@@ -1,8 +1,3 @@
-#
-# Generated - do not edit!
-#
-# NOCDDL
-#
 CND_BASEDIR=`pwd`
 # default configuration
 CND_ARTIFACT_DIR_default=dist/default/production

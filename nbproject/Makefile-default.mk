@@ -1,9 +1,3 @@
-#
-# Generated Makefile - do not edit!
-#
-# Edit the Makefile in the project folder instead (../Makefile). Each target
-# has a -pre and a -post target defined where you can add customized code.
-#
 # This makefile implements configuration specific macros and targets.
 
 

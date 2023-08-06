@@ -1,7 +1,3 @@
-#
-# Generated Makefile - do not edit!
-#
-#
 # This file contains information about the location of compilers and other tools.
 # If you commmit this file into your revision control server, you will be able to 
 # to checkout the project and build it from the command line with make. However,
